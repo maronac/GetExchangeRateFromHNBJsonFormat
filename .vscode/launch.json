@@ -1,0 +1,16 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "al",
+            "request": "launch",
+            "name": "Your own server",
+            "server": "http://localhost",
+            "serverInstance": "DynamicsVisualStudio",
+            "authentication": "Windows",
+            "port": 11149,
+            "startupObjectType": "Page",
+            "startupObjectId": 4
+        }
+    ]
+}

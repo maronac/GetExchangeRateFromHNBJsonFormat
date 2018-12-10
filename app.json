@@ -1,0 +1,22 @@
+{
+  "id": "17aef505-1c61-46de-ac5d-2200e0199acb",
+  "name": "Get Exchange Rate From HNB in JSON Format",
+  "publisher": "Alen",
+  "brief": "",
+  "description": "Get Exchange Rate From HNB in JSON Format",
+  "version": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "idRange": {
+    "from": 50000,
+    "to": 99999
+  }
+}
